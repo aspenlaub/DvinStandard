@@ -20,7 +20,7 @@
   </ItemGroup>
   <ItemGroup>
     <PackageReference Include="Aspenlaub.Net.GitHub.CSharp.Dvin" Version="1.0.7231.27297" />
-    <PackageReference Include="Aspenlaub.Net.GitHub.CSharp.PeghStandard" Version="1.0.7228.20514" />
+    <PackageReference Include="Aspenlaub.Net.GitHub.CSharp.PeghStandard" Version="1.0.7233.33185" />
     <PackageReference Include="Microsoft.AspNetCore.Hosting" Version="2.2.7" />
   </ItemGroup>
   <ItemGroup>
