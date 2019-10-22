@@ -23,8 +23,8 @@
     <None Remove="Test\**" />
   </ItemGroup>
   <ItemGroup>
-    <PackageReference Include="Aspenlaub.Net.GitHub.CSharp.Dvin" Version="2.0.90.1139" />
-    <PackageReference Include="Aspenlaub.Net.GitHub.CSharp.PeghStandard" Version="2.0.90.1126" />
+    <PackageReference Include="Aspenlaub.Net.GitHub.CSharp.Dvin" Version="2.0.90.1155" />
+    <PackageReference Include="Aspenlaub.Net.GitHub.CSharp.PeghStandard" Version="2.0.90.1151" />
     <PackageReference Include="Microsoft.AspNetCore.Hosting" Version="2.2.7" />
   </ItemGroup>
   <ItemGroup>
