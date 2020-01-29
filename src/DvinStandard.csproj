@@ -35,9 +35,9 @@
     </Content>
   </ItemGroup>
   <ItemGroup>
-    <PackageReference Include="Dvin" Version="2.0.169.1239" />
+    <PackageReference Include="Dvin" Version="2.0.189.523" />
     <PackageReference Include="Microsoft.AspNetCore.Hosting" Version="2.2.7" />
-    <PackageReference Include="PeghStandard" Version="2.0.169.1223" />
+    <PackageReference Include="PeghStandard" Version="2.0.189.500" />
   </ItemGroup>
   <ItemGroup>
     <Compile Update="Properties\Resources.Designer.cs">
